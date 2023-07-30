@@ -22,8 +22,7 @@ cd ssh-key-extractor
 3. Ejecuta el script principal para procesar los archivos PEM y extraer las claves SSH:
 
 ```
-python ssh-key-extractor.py
-
+python3 ssh-key-extractor.py
 ```
 
 ## Uso
